@@ -579,10 +579,12 @@
   border-radius: 50px;
   background-color: rgb(196, 45, 22);
   border: 100px;
+  font-size: 20px;
+  padding: 25px;
 }
 
 .button-move{
-  padding-left: 700px;
+  padding-left: 650px;
   padding-top: 100px;
 }
 
