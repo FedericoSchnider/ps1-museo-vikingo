@@ -370,8 +370,39 @@
     border-style: solid;
 }
 
-.prouddate{
-    width: 500px;
-    margin: auto;
-    display: inline;
+.proud-american{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 0.1px solid #e6e9f0e0;
+    margin-top: 60px;
+    margin-left: 0px;
+}
+
+.proud{
+    text-decoration: none;
+
+}
+
+.dot{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    content: "\00b7";
+    font-size: 10px;
+    color: #a0a0a0;
+    margin-left: -14px;
+}
+
+.time{
+    padding-right: 6px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.date{
+    font-weight: 10;
 }
