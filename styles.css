@@ -621,3 +621,8 @@
   align-items: center;
   justify-content: center;
   padding-left: 150px;
+}
+
+.main-news-2 img{
+  padding-left: 123px;
+}
