@@ -364,7 +364,7 @@
     float: left;
     position: absolute;
     margin-left: 350px;
-    margin-top: 3px;
+    margin-top: 3 px;
     border-color: #fff;
     border-radius: 3px;
     border-style: solid;
@@ -443,6 +443,7 @@
   padding-top: 10px;
   padding-bottom: 10px;
   font-weight: 400;
+  width: 890px;
 }
 
 .james-author{
@@ -480,6 +481,7 @@
   font-family: 'Roboto', sans-serif;
   padding-bottom: 20px;
   border-bottom: 1px solid #e6e9f0e0;
+  width: 890px;
 }
 
 .main-news{
@@ -510,7 +512,6 @@
   padding-left: 150px;
   padding-right: 150px;
   padding-top: 25px;
-  border-top: 1px solid #e6e9f0e0;
 }
 
 .willie-twitter{
@@ -601,3 +602,22 @@
   font-size: 18px;
   color: #003365;
 }
+
+.line-top-willie{
+  background-color: #e6e9f0e0;
+  width: 800px;
+  border: solid 1px #e6e9f0e0;
+  margin-left: 149px;
+}
+
+.main-news-2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 27px;
+  margin-bottom: 28px;
+  color: #222222;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  padding-left: 150px;
