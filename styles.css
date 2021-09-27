@@ -374,13 +374,19 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: 0.1px solid #e6e9f0e0;
+    border-top: 1px solid #e6e9f0e0;
     margin-top: 60px;
     margin-left: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 .proud{
     text-decoration: none;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    color: #003365;
 
 }
 
@@ -405,4 +411,66 @@
 
 .date{
     font-weight: 10;
+}
+
+.main-header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  max-width: 992px;
+  margin: 0 auto 24px auto;
+  color: #222;
+  font-weight: 800;
+  text-align: center;
+}
+
+.main-author{
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  border-top: 1px solid #e6e9f0e0;
+  margin-top: 50px;
+  margin-left: 60px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid #e6e9f0e0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.james-author{
+  text-decoration: none;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  color: #003365;
+}
+
+.video{
+  width: 896px;
+  height: 504px;
+}
+
+.video-robot{
+  text-decoration: none;
+  font-weight: 700;
+  font-family: 'Roboto', sans-serif;
+  font-size: 17px;
+  color: #003365;
+}
+
+.video-sub{
+  margin-top: 10px;
+}
+
+.sub-video-link{
+  font-size: 13px;
+  color: #666666;
+  font-family: 'Roboto', sans-serif;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e6e9f0e0;
+
 }
